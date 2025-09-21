@@ -24,4 +24,5 @@ Este repositório contém a solução do desafio proposto em aula: implementar e
 
 👩‍💻 Autoria
 **Enaile Lopes**
+
 Projeto desenvolvido como parte do Bootcamp bairesdev machine learning
